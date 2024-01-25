@@ -1,7 +1,4 @@
-# ✨ Welcome ✨
-- Haii, aku Annisa Sabillah
-- Aku mahasiswa jurusan Teknik Informatika di Universitas Islam Negeri Sunan Gunung Djati Bandung.
-- Saat ini aku sedang mempelajari mobile development.
+
 
 
 <!---
